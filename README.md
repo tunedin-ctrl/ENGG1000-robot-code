@@ -9,4 +9,4 @@ Final.c is with the autonomous vehicle functions.
 **Uses a phototransistor**
 
 
-[IMG_7608.jpg]()
+![IMG_7608.jpg](https://github.com/tunedin-ctrl/ENGG1000-robot-code/blob/main/IMG_7608.jpg)
